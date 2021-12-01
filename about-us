@@ -1,0 +1,867 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>About Us - JPs Contracting</title>
+
+        <!-- Css Files -->
+        <link href="static/css/bootstrap.min.css" rel="stylesheet">
+        <link href="static/css/bootstrap-theme.css" rel="stylesheet">
+        <link href="static/style.css" rel="stylesheet">
+		<link href="static/css/responsive.css" rel="stylesheet">
+        <link href="static/css/color.css" rel="stylesheet">
+        <link href="static/css/flexslider.css" rel="stylesheet">
+        <link href="static/css/iconmoon.css" rel="stylesheet">
+        <link href="static/css/language-selector-remove-able-css.css" rel="stylesheet">
+        <link href="static/css/owl.carousel.css" rel="stylesheet">
+        <link href="static/css/widget.css" rel="stylesheet">
+        <!-- <link href="static/css/rtl.css" rel="stylesheet"> -->
+        <link href="static/css/responsive.css" rel="stylesheet">
+
+
+        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+        <!-- Wrapper -->
+        <div class="wrapper">
+<!-- Header -->
+<header id="main-header">
+<!--                 <div class="px-top-bar">
+                    <div class="container">
+                        <div class="left-side">
+                            <nav class="top-nav">
+                                <ul>
+                                    <li><a href="about.html">About us</a></li>
+                                    <li><a href="portfolio.html">Portfolio</a></li>
+                                    <li><a href="services.html">Services</a></li>
+                                    <li><a href="contact.html">Contact us</a></li>
+                                </ul>
+                            </nav>
+                        </div>
+                        <div class="right-side">                          
+                        </div>
+                    </div>
+                </div> -->
+                <div class="px-main-nav">
+                    <div class="container">
+                        <div class="px-logo-area">
+                            <div class="left-side">
+                               <div class="logo"><a href="#"><img src="static/images/JPS%20logo.jpg" alt=""></a></div>
+                            </div>
+                            <div class="right-side">
+                                <div class="px-head-info">
+                                    <ul>
+<!--                                        <li><span>Opening Hours</span>Mon - Sat 8.00 - 18.00</li> !-->
+                                        <li><span>Call Us</span>1-844-629-5507</li>
+                                        <li><span>Email Us</span><a href="mailto:info@jpscontracting.ca">info@jpscontracting.ca</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="px-nav-area">
+                            <nav class="navigation">
+                            <a class="cs-click-menu" href="#"><i class="icon-list8"></i></a>
+                                <ul>
+                                    <li><a href="index.html">Home</a></li>
+                                    <li><a href="about-us">About Us</a></li>
+                                    <li><a href="what-we-do">What We Do</a></li>
+                                    <li>
+                                        <a href="portfolio">Portfolio</a>
+                                        <!--<ul class="sub-dropdown">-->
+                                            <!--<li><a href="portfolio-list.html">Portfolio List</a></li>-->
+                                            <!--<li><a href="portfolio-columns2.html">Portfolio columns2</a></li>-->
+                                            <!--<li><a href="portfolio-columns3.html">Portfolio columns3</a></li>-->
+                                            <!--<li><a href="portfolio-columns4.html">Portfolio columns4</a></li>-->
+                                            <!--<li><a href="portfolio-modren.html">Portfolio modren</a></li>-->
+                                            <!--<li>-->
+                                                <!--<a href="#">Portfolio Detail</a>-->
+                                                <!--<ul>-->
+                                                <!--<li><a href="portfolio-detail.html">Portfolio Detail</a></li>-->
+                                                <!--<li><a href="portfolio-detail2.html">Portfolio Detail 2</a></li>-->
+                                                <!--<li><a href="portfolio-detail3.html">Portfolio Detail 3</a></li>-->
+                                                 <!--<li><a href="portfolio-detail4.html">Portfolio Detail 4</a></li>-->
+                                                <!--</ul>-->
+                                            <!--</li>-->
+                                        <!--</ul>-->
+                                    </li>
+                                    <li><a href="contact">Contact Us</a></li>
+                                </ul>
+                            </nav>
+<!--                           <a href="contactus2.html" class="btn-quote">Get Quick Quote</a>!-->
+                        </div>
+                    </div>
+                </div>
+            </header>
+<!-- Header -->
+<!-- Main Content -->
+<div style="background:url(static/extra-images/bg-title1.jpg) no-repeat; background-size:cover; height:328px; padding: 51px 0 0;" class="breadcrumb-sec align-center bg-img">
+                    <div class="container">
+                        <div class="px-frame">
+                            <div class="px-text">
+                                <div class="px-text-holder">
+                                    <h1>About Us</h1>
+                                    <!-- <span>You may think we're a one man shop, bust just you wait and see. We'll get your project from planning to completion faster than you'd expect.</span> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+<main id="main-content">
+				<div class="main-section">
+					<section class="page-section">
+						<div class="container">
+							<div class="row">
+								<div class="section-fullwidth">
+									<div class="element-size-50">
+										<div class=" lightbox col-md-12">
+                                            <div class="px-section-title">
+											 <h3>Our Story</h3>
+                                            </div>
+											<p class="px-textborder" style="margin:0 0 30px;">JPS Contracting is a Design-Build company that focuses on architecturally advanced designs and specializes in high-end remodels, home additions and custom homes.  
+												<br>We serve homeowners and landlords all throughout York Region and the Greater Toronto Areas.
+<br>
+												JPS Contracting and Renovations provides turn key solutions to homeowners who are interested in embarking on a construction journey of their own.  Working hand-in-hand with homeowners to design the project that perfectly fits their family character and style, and delivering that design to them by way of 3D rendering to aid them in the visualization of their upcoming project to ensure it is their dream design prior to commencing.  
+											</p>
+											<p style="margin:0;">
+												We focus heavily on the design and ensure it is exactly what the homeowner loves first and foremost.  Complete and proper planning is the key to a successful project; more specifically, an efficient execution, staying within project budget and customer satisfaction.
+												
+												</p>
+											<!-- <p style="margin:0;">Blah, blah, blah</p> -->
+										</div>
+									</div>
+									<div class="element-size-50">
+										<div class=" lightbox col-md-12">
+											<p style="margin:0 0 30px; padding:42px 0 0;">	We are fully licensed, insured and professionally trained and skilled in all facets of the trade industry. With over 15 years experience in the renovations, and new build-outs, JPS Contracting is your sure choice to a 100% satisfied turn-key solution.
+												
+												In addition to our residential focus, we do provide light commercial services that do not require structural modifications.
+												
+												Full Design-Build services available.</p>
+											<div class="px-author-sec">
+												<h6>John Paul Sacco</h6>
+												<span>Chief Construction Officer</span>
+												<img src="static/images/sgnaiture.png" alt="#">
+											</div>
+										</div>
+									</div>
+									<div class="element-size-100">
+										<div class="px-spreater-holder col-md-12">
+											<div class="px-spreater">
+												<div class="px-dividerstyle">
+													<span></span>
+												</div>
+											</div>
+										</div>
+									</div>
+									<!-- <div class="element-size-100">
+										<div class="px-partner">
+											<ul class="row">
+											  <li class="col-md-2"><figure><a href="#"><img src="static/extra-images/clients-1.png" alt="#"></a></figure></li>
+											  <li class="col-md-2"><figure><a href="#"><img src="static/extra-images/clients-2.png" alt="#"></a></figure></li>
+											  <li class="col-md-2"><figure><a href="#"><img src="static/extra-images/clients-3.png" alt="#"></a></figure></li>
+											  <li class="col-md-2"><figure><a href="#"><img src="static/extra-images/clients-4.png" alt="#"></a></figure></li>
+											  <li class="col-md-2"><figure><a href="#"><img src="static/extra-images/clients-5.png" alt="#"></a></figure></li>
+											  <li class="col-md-2"><figure><a href="#"><img src="static/extra-images/clients-6.png" alt="#"></a></figure></li>
+											</ul>
+										</div>
+									</div>
+									<div class="element-size-100">
+										<div class="px-spreater-holder col-md-12">
+											<div class="px-spreater">
+												<div class="px-dividerstyle">
+													<span></span>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="element-size-100">
+										<div class="px-section-title col-md-12">
+											<h3 style="text-transform: capitalize; color:#000;">Our Workplace</h3>
+										</div>
+										<div class="px-portfolio px-portfolio-masonary">
+											<article class="col-md-3">
+												<div class="px-media">
+													<figure>
+														<a href="#"><img alt="" src="static/extra-images/isotop2.jpg"></a>
+														<figcaption>
+															<a href="portfolio-detail2.html" class="plus-btn"><i class="icon-plus8"></i></a>
+														</figcaption>
+													</figure>
+												</div>
+											</article>
+											<article class="col-md-3">
+												<div class="px-media">
+													<figure>
+														<a href="#"><img alt="" src="static/extra-images/isotop3.jpg"></a>
+														<figcaption>
+															<a href="portfolio-detail2.html" class="plus-btn"><i class="icon-plus8"></i></a>
+														</figcaption>
+													</figure>
+												</div>
+											</article>
+											<article class="col-md-3">
+												<div class="px-media">
+													<figure>
+														<a href="#"><img alt="" src="static/extra-images/isotop4.jpg"></a>
+														<figcaption>
+															<a href="portfolio-detail2.html" class="plus-btn"><i class="icon-plus8"></i></a>
+														</figcaption>
+													</figure>
+												</div>
+											</article>
+											<article class="col-md-3">
+												<div class="px-media">
+													<figure>
+														<a href="#"><img alt="" src="static/extra-images/isotop5.jpg"></a>
+														<figcaption>
+															<a href="portfolio-detail2.html" class="plus-btn"><i class="icon-plus8"></i></a>
+														</figcaption>
+													</figure>
+												</div>
+											</article>
+											<article class="col-md-3">
+												<div class="px-media">
+													<figure>
+														<a href="#"><img alt="" src="static/extra-images/isotop6.jpg"></a>
+														<figcaption>
+															<a href="portfolio-detail2.html" class="plus-btn"><i class="icon-plus8"></i></a>
+														</figcaption>
+													</figure>
+												</div>
+											</article>
+											<article class="col-md-3">
+												<div class="px-media">
+													<figure>
+														<a href="#"><img alt="" src="static/extra-images/isotop7.jpg"></a>
+														<figcaption>
+															<a href="portfolio-detail2.html" class="plus-btn"><i class="icon-plus8"></i></a>
+														</figcaption>
+													</figure>
+												</div>
+											</article>
+											<article class="col-md-3">
+												<div class="px-media">
+													<figure>
+														<a href="#"><img alt="" src="static/extra-images/isotop8.jpg"></a>
+														<figcaption>
+															<a href="portfolio-detail2.html" class="plus-btn"><i class="icon-plus8"></i></a>
+														</figcaption>
+													</figure>
+												</div>
+											</article>
+											<article class="col-md-3">
+												<div class="px-media">
+													<figure>
+														<a href="#"><img alt="" src="static/extra-images/isotop9.jpg"></a>
+														<figcaption>
+															<a href="portfolio-detail2.html" class="plus-btn"><i class="icon-plus8"></i></a>
+														</figcaption>
+													</figure>
+												</div>
+											</article>
+										</div>
+									</div>
+								</div> -->
+							</div>
+						</div>
+					</section>
+					<!-- <section class="page-section" style="background:url(static/extra-images/bg-counter.png) no-repeat; background-size:cover; padding:60px 0 30px;">
+						<div class="container">
+							<div class="row">
+								<div class="section-fullwidth">
+									<div class="element-size-100">
+										
+										<div style="text-align: center;" class="px-fancy-heading">
+											<h2 style="color:#fff;">Company Statistics</h2>
+											<p style="color:#fff;">One jeepers stood owing and narrow while among that orca thanks.</p>
+										</div>
+										
+									</div>
+									<div class="element-size-25">
+										<div class="col-md-12">
+											<article class="px-counter count-boxy">
+												<figure>
+													<i class="icon-heart5"></i>
+												</figure>
+												<div class="px-text">
+													<a href="#" class="px-numcount custom-counter">2,897</a>
+													<p>Chairs Created</p>
+												</div>
+											</article>
+										</div>
+									</div>
+									<div class="element-size-25">
+										<div class="col-md-12">
+											<article class="px-counter count-boxy">
+												<figure>
+													<i class="icon-shop"></i>
+												</figure>
+												<div class="px-text">
+													<a href="#" class="px-numcount custom-counter">567</a>
+													<p>Office Renovations</p>
+												</div>
+											</article>
+										</div>
+									</div>
+									<div class="element-size-25">
+										<div class="col-md-12">
+											<article class="px-counter count-boxy">
+												<figure>
+													<i class="icon-trash"></i>
+												</figure>
+												<div class="px-text">
+													<a href="#" class="px-numcount custom-counter">10,456</a>
+													<p>Cup of Coffee</p>
+												</div>
+											</article>
+										</div>
+									</div>
+									<div class="element-size-25">
+										<div class="col-md-12">
+											<article class="px-counter count-boxy">
+												<figure>
+													<i class="icon-bulb"></i>
+												</figure>
+												<div class="px-text">
+													<a href="#" class="px-numcount custom-counter">3,999</a>
+													<p>Feet Cutting</p>
+												</div>
+											</article>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</section> -->
+					<section class="page-section" style="padding:55px 0 0 0;">
+						<div class="container">
+							<div class="row">
+								<div class="section-fullwidth">
+									<div class="element-size-100">
+										<div class="px-fancy-heading col-md-12" style="text-align:center;">
+											<h2 style="text-transform:uppercase;">Our Working Process</h2>
+											<!-- <p>One jeepers stood owing and narrow while among that orca thanks.</p> -->
+										</div>
+									</div>
+									<div class="element-size-100">
+										<div class="px-services px-timeline">
+                                           <article class="col-md-4">
+                                            <figure>
+                                             <figcaption>
+                                              <span>STEP</span>
+                                              <strong>01</strong>
+                                             </figcaption>
+                                            </figure>
+                                            <div class="px-text">
+                                             <h4>Scope the Work</h4>
+                                             <p>Understanding the scope of the project is the biggest element at play. We do it right, everytime.</p>
+                                            </div>
+                                           </article>
+                                           <article class="col-md-4">
+                                            <figure>
+                                             <figcaption>
+                                              <span>STEP</span>
+                                              <strong>02</strong>
+                                             </figcaption>
+                                            </figure>
+                                            <div class="px-text">
+                                             <h4>Approval from Client</h4>
+                                             <p>The client's happiness matters most, and with that comes their approval. No approval means no work.</p>
+                                            </div>
+                                           </article>
+                                           <article class="col-md-4">
+                                            <figure>
+                                             <figcaption>
+                                              <span>STEP</span>
+                                              <strong>03</strong>
+                                             </figcaption>
+                                            </figure>
+                                            <div class="px-text">
+                                             <h4>Breakdown Work</h4>
+                                             <p>Estimated costs and timelines ensure us that all parties are on the same plan of execution for the entirety of the project.</p>
+                                            </div>
+                                           </article>
+                                          </div>
+									</div>
+									<!-- <div class="element-size-67">
+										<div class="col-md-12">
+											<div class="px-section-title">
+												<h3>Our Skills</h3>
+											</div>
+											<div class="px-skills px-plain">
+												<div class="skills-sec" data-percent="100%">
+													<span>Handsome</span>
+													<div class="skillbar">
+														<div class="skillbar-bar" style="width:100%;">
+															<small>100%</small>
+														</div>
+													</div>
+												</div>
+												<div class="skills-sec" data-percent="55%">
+													<span>Demolition Tools</span>
+													<div class="skillbar">
+														<div class="skillbar-bar" style="width:55%;">
+															<small>55%</small>
+														</div>
+													</div>
+												</div>
+												<div class="skills-sec" data-percent="98%">
+													<span>Cutting Wood</span>
+													<div class="skillbar">
+														<div class="skillbar-bar" style="width:100%;">
+															<small>100%</small>
+														</div>
+													</div>
+												</div>
+												<div class="skills-sec" data-percent="42%">
+													<span>Perfect Grip</span>
+													<div class="skillbar">
+														<div class="skillbar-bar" style="width:42%;">
+															<small>42%</small>
+														</div>
+													</div>
+												</div>
+												<div class="skills-sec" data-percent="80%">
+													<span>Complete Renovation</span>
+													<div class="skillbar">
+														<div class="skillbar-bar" style="width:80%;">
+															<small>80%</small>
+														</div>
+													</div>
+												</div>
+												<div class="skills-sec" data-percent="66%">
+													<span>Talking</span>
+													<div class="skillbar">
+														<div class="skillbar-bar" style="width:66%;">
+															<small>66%</small>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div> -->
+									<!-- <div class="element-size-33">
+										<div class="col-md-12">
+											<div class="px-section-title">
+												<h3>Top Questions</h3>
+											</div>
+											<div class="panel-group px-box" id="accordion-7237671">
+											  <div class="panel panel-default">
+													<div class="panel-heading">
+													  <h4 class="panel-title">
+														<a data-toggle="collapse" data-parent="#accordion-7237671" href="#accordion-6886517" class="collapsed" aria-expanded="false">
+														   Our best Renovation &amp; Repairs?
+														</a>
+													  </h4>
+													</div>
+													<div id="accordion-6886517" class="panel-collapse collapse" aria-expanded="false" style="height: 0px;">
+													  <div class="panel-body"><p>A. Far saluted immaculately indiscriminate ouch along darn reliable cuckoo goodness but and jay far into mute and into much amidst far owing the a because since to the oh near much crud with darn and before inventoried scurrilously or hey far darn wedded worm fit terrier depen ding regardless darn on less. indiscriminate ouch along darn reliable cuckoo goodness buT.</p></div>
+													</div>
+											  </div>
+											  <div class="panel panel-default">
+												<div class="panel-heading">
+												  <h4 class="panel-title">
+													<a data-toggle="collapse" data-parent="#accordion-7237671" href="#accordion-5369205" class="collapsed" aria-expanded="false">
+													   How Much for Refurbishment?
+													</a>
+												  </h4>
+												</div>
+												<div id="accordion-5369205" class="panel-collapse collapse" aria-expanded="false" style="height: 0px;">
+												  <div class="panel-body"><p>A. Far saluted immaculately indiscriminate ouch along darn reliable cuckoo goodness but and jay far into mute and into much amidst far owing the a because since to the oh near much crud with darn.</p></div>
+												</div>
+											  </div>
+											  <div class="panel panel-default">
+												<div class="panel-heading">
+												  <h4 class="panel-title">
+													<a data-toggle="collapse" data-parent="#accordion-7237671" href="#accordion-989306" class="collapsed" aria-expanded="false">
+													   Do we make Storage?
+													</a>
+												  </h4>
+												</div>
+												<div id="accordion-989306" class="panel-collapse collapse" aria-expanded="false" style="height: 0px;">
+												  <div class="panel-body"><p>A. Far saluted immaculately indiscriminate ouch along darn reliable cuckoo goodness but and jay far into mute and into much amidst far owing the a because since to the oh near much crud with darn.</p></div>
+												</div>
+											  </div>
+											  <div class="panel panel-default">
+												<div class="panel-heading">
+												  <h4 class="panel-title">
+													<a data-toggle="collapse" data-parent="#accordion-7237671" href="#accordion-989308" class="" aria-expanded="true">
+													    Do we make Arc Doors?
+													</a>
+												  </h4>
+												</div>
+												<div id="accordion-989308" class="panel-collapse collapse in" aria-expanded="true">
+												  <div class="panel-body"><p>A. Far saluted immaculately indiscriminate ouch along darn reliable cuckoo goodness but and jay far into mute and into much amidst far owing the a because since to the oh near much crud with darn.</p></div>
+												</div>
+											  </div>
+                                              <div class="panel panel-default">
+                                                <div class="panel-heading">
+                                                  <h4 class="panel-title">
+                                                    <a data-toggle="collapse" data-parent="#accordion-7237671" href="#accordion-9893081" class="collapsed" aria-expanded="false">
+                                                        Can we Renovate?
+                                                    </a>
+                                                  </h4>
+                                                </div>
+                                                <div id="accordion-9893081" class="panel-collapse collapse  " aria-expanded="false">
+                                                  <div class="panel-body"><p>A. Far saluted immaculately indiscriminate ouch along darn reliable cuckoo goodness but and jay far into mute and into much amidst far owing the a because since to the oh near much crud with darn.</p></div>
+                                                </div>
+                                              </div>
+                                              <div class="panel panel-default">
+                                                <div class="panel-heading">
+                                                  <h4 class="panel-title">
+                                                    <a data-toggle="collapse" data-parent="#accordion-7237671" href="#accordion-9893080" class="collapsed" aria-expanded="false">
+                                                        Who we Are?
+                                                    </a>
+                                                  </h4>
+                                                </div>
+                                                <div id="accordion-9893080" class="panel-collapse collapse  " aria-expanded="false">
+                                                  <div class="panel-body"><p>A. Far saluted immaculately indiscriminate ouch along darn reliable cuckoo goodness but and jay far into mute and into much amidst far owing the a because since to the oh near much crud with darn.</p></div>
+                                                </div>
+                                              </div>
+										  </div>
+										</div>
+									</div> -->
+								</div>
+							</div>
+						</div>
+					</section>
+					<!-- <section class="page-section" style="background:url(assets/extra-images/bg-testimonial.png) no-repeat; background-size:cover; padding:50px 0 20px;">
+						<div class="container">
+							<div class="row">
+								<div class="section-fullwidth">
+									<div class="element-size-100">
+										
+											<div style="text-align: center;" class="px-fancy-heading">
+												<h2 style="color:#fff;">Happy Clients</h2>
+												<p style="color:#fff;">One jeepers stood owing and narrow while among that orca thanks.</p>
+											</div>
+										
+									</div>
+									<div class="element-size-50">
+										<div class="col-md-12">
+											<div class="px-testimonial px-italic-style">
+												<div class="px-question-mark">
+													<p>“ Hardy dragonfly crud less winked the since and dear ardent and stoic jeepers inside opened snug and painful flapped that steadfast lighthearted strictly near underlay more brought regarding wherever the somber a bridled falsely therefore much up forgetful ”</p>
+													<div class="px-author">
+														<figure><img alt="#" src="static/extra-images/author-img1.png"></figure>
+														<h5>Chiris Browne</h5>
+														<span>Creative Cow</span>
+													</div>
+												</div>
+										   </div>
+										</div>
+									</div>
+									<div class="element-size-50">
+										<div class="col-md-12">
+											<div class="px-testimonial px-italic-style">
+												<div class="px-question-mark">
+													<p>“ Hardy dragonfly crud less winked the since and dear ardent and stoic jeepers inside opened snug and painful flapped that steadfast lighthearted strictly near underlay more brought.</p>
+													<div class="px-author">
+														<figure><img alt="#" src="static/extra-images/author-img2.png"></figure>
+														<h5>James Anderson</h5>
+														<span>Creative Cow</span>
+													</div>
+												</div>
+										   </div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</section> -->
+					<section class="page-section" style="padding:85px 0 0; margin-bottom:50px;">
+						<div class="container">
+							<div class="row">
+								<div class="section-fullwidth">
+									<!-- <div class="element-size-100">
+										<div class="">
+											<div style="text-align: center;" class="px-fancy-heading">
+												<h2>Power Behind Our Work</h2>
+												<p>One jeepers stood owing and narrow while among that orca thanks.</p>
+											</div>
+										</div>
+									</div>
+									<div class="element-size-100">
+										<div class="col-md-12">
+											<div class="px-team px-teamgrid">
+												<div class="row">
+													<article class="col-md-4">
+														<div class="px-wrapteam">
+															<figure>
+																<a href="#"><img alt="#" src="static/extra-images/tema1.jpg"></a>
+															</figure>
+															<div class="px-text">
+																<h4><a href="team-detail.html">James Sedher</a></h4>
+																<span>CEO</span>
+																<div class="px-teaminfo">
+																	<div class="px-social-media">
+																		<ul>
+																			<li>
+																				<a href="#"><i class="icon-facebook8"></i></a>
+																			</li>
+																			<li>
+																				<a data-original-title="Twitter" href="#"><i class="icon-twitter7"></i></a>
+																			</li>
+																			<li>
+																				<a data-original-title="googleplus" href="#"><i class="icon-googleplus8"></i></a>
+																			</li>
+																			<li>
+																				<a data-original-title="dribbble" href="#"><i class="icon-dribbble8"></i></a>
+																			</li>
+																			<li>
+																				<a data-original-title="linkedin" href="#"><i class="icon-linkedin5"></i></a>
+																			</li>
+																			<li>
+																				<a data-original-title="vimeo" href="#"><i class="icon-vimeo5"></i></a>
+																			</li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</article>
+													<article class="col-md-4">
+														<div class="px-wrapteam">
+															<figure>
+																<a href="#"><img alt="#" src="static/extra-images/tema2.jpg"></a>
+															</figure>
+															<div class="px-text">
+																<h4><a href="team-detail.html">Bruce Wills</a></h4>
+																<span>Carpenter</span>
+																<div class="px-teaminfo">
+																	<div class="px-social-media">
+																		<ul>
+																			<li>
+																				<a href="#"><i class="icon-facebook8"></i></a>
+																			</li>
+																			<li>
+																				<a data-original-title="Twitter" href="#"><i class="icon-twitter7"></i></a>
+																			</li>
+																			<li>
+																				<a data-original-title="googleplus" href="#"><i class="icon-googleplus8"></i></a>
+																			</li>
+																			<li>
+																				<a data-original-title="dribbble" href="#"><i class="icon-dribbble8"></i></a>
+																			</li>
+																			<li>
+																				<a data-original-title="linkedin" href="#"><i class="icon-linkedin5"></i></a>
+																			</li>
+																			<li>
+																				<a data-original-title="vimeo" href="#"><i class="icon-vimeo5"></i></a>
+																			</li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</article>
+													<article class="col-md-4">
+														<div class="px-wrapteam">
+															<figure>
+																<a href="#"><img alt="#" src="static/extra-images/tema3.jpg"></a>
+															</figure>
+															<div class="px-text">
+																<h4><a href="team-detail.html">Adam Ross</a></h4>
+																<span>Expert Carpenter</span>
+																<div class="px-teaminfo">
+																	<div class="px-social-media">
+																		<ul>
+																			<li>
+																				<a href="#"><i class="icon-facebook8"></i></a>
+																			</li>
+																			<li>
+																				<a data-original-title="Twitter" href="#"><i class="icon-twitter7"></i></a>
+																			</li>
+																			<li>
+																				<a data-original-title="googleplus" href="#"><i class="icon-googleplus8"></i></a>
+																			</li>
+																			<li>
+																				<a data-original-title="dribbble" href="#"><i class="icon-dribbble8"></i></a>
+																			</li>
+																			<li>
+																				<a data-original-title="linkedin" href="#"><i class="icon-linkedin5"></i></a>
+																			</li>
+																			<li>
+																				<a data-original-title="vimeo" href="#"><i class="icon-vimeo5"></i></a>
+																			</li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</article>
+												</div>
+											</div>
+										</div>
+									</div> -->
+									<!-- <div class="element-size-100">
+                                        <div class="px-fancy-heading" style="text-align: center;">
+                                            <div class="px-content-inner">
+                                                <h2>Our Clients</h2>
+                                                <p>Our clients are the best clients.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+									<div class="element-size-100">
+                                    <div class="col-md-12">
+                                        <div class="px-partner">
+                                            <ul class="row">
+                                              <li class="col-md-2"><figure><a href="#"><img alt="#" src="static/extra-images/clients-7.png"></a></figure></li>
+                                              <li class="col-md-2"><figure><a href="#"><img alt="#" src="static/extra-images/clients-8.png"></a></figure></li>
+                                              <li class="col-md-2"><figure><a href="#"><img alt="#" src="static/extra-images/clients-9.png"></a></figure></li>
+                                              <li class="col-md-2"><figure><a href="#"><img alt="#" src="static/extra-images/clients-10.png"></a></figure></li>
+                                              <li class="col-md-2"><figure><a href="#"><img alt="#" src="static/extra-images/clients-11.png"></a></figure></li>
+                                              <li class="col-md-2"><figure><a href="#"><img alt="#" src="static/extra-images/clients-12.png"></a></figure></li>
+                                            </ul>
+                                        </div>
+                                    </div> -->
+                                </div>
+								</div>
+							</div>
+						</div>
+					</section>
+				</div>
+			</main>
+
+<script>
+/* ---------------------------------------------------------------------------
+* Counter Integers Function
+* --------------------------------------------------------------------------- */
+jQuery(document).ready(function( $ ) {
+  $('.custom-counter').counterUp({
+	  delay: 10,
+	  time: 1000
+  });
+});
+</script>
+<!-- Main Content -->
+<!-- Footer -->
+        <!-- Footer -->
+           <footer id="footer-sec">
+                <div class="container">
+                    <!-- <div class="row"> -->
+                        <div class="px-footer-block">
+                            <div class="left-side">
+                                 <!-- <div class="logo"><a href="#"><img src="static/images/footer-logo.png" alt=""></a></div> -->
+                            </div>
+                            <div class="right-side">
+                                <!-- <div class="twitter_widget">
+                                    <ul class="slides">
+                                        <li>
+                                            <p>RT <a href="#">@abduzeedo:</a>Ori and the Blind Forest Game Concepts <a href="#">http://t.co/3IWkWzqVgu </a> and we have some prolem with <a href="#">http://t.co/wlIknBrJw4</a></p>
+                                            <ul class="infotext">
+                                                <li><a href="#">@woodcraft</a></li>
+                                                <li>Posted 14 Hours Ago</li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <p>RT <a href="#">@abduzeedo:</a>Ori and the Blind Forest Game Concepts <a href="#">http://t.co/3IWkWzqVgu </a> and we have some prolem with <a href="#">http://t.co/wlIknBrJw4</a></p>
+                                            <ul class="infotext">
+                                                <li><a href="#">@woodcraft</a></li>
+                                                <li>Posted 14 Hours Ago</li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <p>RT <a href="#">@abduzeedo:</a>Ori and the Blind Forest Game Concepts <a href="#">http://t.co/3IWkWzqVgu </a> and we have some prolem with <a href="#">http://t.co/wlIknBrJw4</a></p>
+                                            <ul class="infotext">
+                                                <li><a href="#">@woodcraft</a></li>
+                                                <li>Posted 14 Hours Ago</li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div> -->
+                            </div>
+                        </div>
+                        <div class="px-widget-block row">
+                            <div class="col-md-3">
+                                <aside class="widget px-widget-contact">
+                                    <div class="widget-section-title">
+                                        <h5>Contact Us</h5>
+                                    </div>
+                                    <ul>
+                                        <li>1-844-629-5507</li>
+                                        <li><a href="mailto:info@jpscontracting.ca">info@jpscontracting.ca</a></li>
+                                    </ul>
+                                     <p></p>
+                                </aside>
+                            </div>
+
+                        <div class="col-md-9">
+                            <aside class="widget widget_pages">
+                                <div class="widget-section-title">
+                                    <h5>Our Expertise</h5>
+                                </div>
+                                <ul>
+                                    <li>Renovation &amp; Repairs</li>
+                                    <li>Fences</li>
+                                    <li>Decks</li>
+                                    <li>Windows</li>
+                                    <li>Doors</li>
+                                    <li>Flooring</li>
+                                    <li>Kitchens</li>
+                                    <li>Additions</li>
+                                    <li>Media Rooms</li>
+                                    <li>Finishing Touches</li>
+                                    <li>Design and Build</li>
+                                </ul>
+                            </aside>
+                        </div>
+                        <!-- <div class="col-md-3">
+                            <aside class="widget widget-form">
+                                <div class="widget-section-title">
+                                    <h5>Need Estimate?</h5> 
+                                </div>
+                                 <form action="#">
+                                    <fieldset>
+                                        <input type="text" placeholder="Name" required="required">
+                                        <input type="email" placeholder="Email" required="required">
+                                        <textarea placeholder="Message" required="required"></textarea>
+                                        <input type="submit" value="Send Message">
+                                    </fieldset>
+                                </form>
+                            </aside>
+                        </div> -->
+                    </div>
+                </div>
+                <!-- CopyRight -->
+                <section id="copyright">
+                    <div class="container">
+                        <div class="social-media">
+                            <ul>
+                                <li><a href="#"><i data-original="facebook" class="icon-facebook7"></i><span>Facebook</span></a></li>
+                                <li><a href="#"><i data-original="twitter" class="icon-twitter6"></i><span>Twitter</span></a></li>
+                                <li><a href="#"><i data-original="googleplus" class="icon-googleplus7"></i><span>Google Plus</span></a></li>
+                                <li><a href="#"><i data-original="dribble" class="icon-dribbble6"></i><span>Dribble</span></a></li>
+                                <li><a href="#"><i data-original="linkedin" class="icon-linkedin2"></i><span>Linked in</span></a></li>
+                            </ul>
+                        </div>
+                        <p>©2016 <a href="/">JPs Contracting</a> All rights reserved.</p>
+                            <p>©2016 <a href="ahoskingit.com">AHosking IT</a> All rights reserved.</p>
+                    </div>
+                </section>
+                <!-- CopyRight --> 
+                <!-- CopyRight -->
+                </div>
+            </footer>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-27693393-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Footer -->
+<!-- Footer -->
+        </div>
+        <!-- Wrapper -->
+    </body>
+</html>

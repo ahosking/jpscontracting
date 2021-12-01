@@ -1,0 +1,367 @@
+/* page SideBar Start */
+.widget{
+	margin-bottom: 30px;
+	float: left;
+	width: 100%;
+}
+.widget-section-title {
+	margin-bottom: 15px;
+	position: relative;
+}
+.widget-section-title h5{
+	margin-bottom: 0px;
+	text-transform: uppercase;
+}
+.widget ul li{list-style: none;}
+.widget select option{padding: 5px;}
+
+/* Defulte widget Style */
+.widget_categories ul li, 
+.widget_nav_menu ul li a,
+.widget_archive ul li,
+.widget select,
+.widget_pages ul li a,
+.widget_meta ul li{
+	float: left;
+	width: 100%;
+}
+.widget_categories ul li, 
+.widget_nav_menu ul li a,
+.widget_archive ul li,
+.widget select,
+.widget_pages ul li a,
+.widget_meta ul li{
+	font-size: 14px;
+	color: #444444;
+	font-weight: 400;
+	line-height: 34px;
+	list-style: none;
+	position: relative;
+}
+.widget_categories ul li a, 
+.widget_archive ul li a,
+.widget_meta ul li a{
+	font-size: 14px;
+	color: #444444;
+	float: left;
+}
+.widget_archive ul li, 
+.widget.widget_recent_comments li{
+	text-align: right;
+}
+.widget_categories ul li, 
+.widget_nav_menu ul li a,
+.widget_archive ul li,
+.widget_pages ul li a,
+.widget_meta ul li{
+	border-top: 1px solid #eeeeee;
+	padding: 0 0 0 20px;
+}
+.widget_categories ul li:before, 
+.widget_nav_menu ul li a:before,
+.widget_archive ul li:before,
+.widget_pages ul li a:before,
+.widget_meta ul li:before{
+	content: "\f0da";
+	position: absolute;
+	left: 0px;
+	top: 0;
+	font-size: 16px;
+	color: #dadada;
+	font-family: "icomoon";
+}
+.widget_categories ul li:hover, 
+.widget_nav_menu ul li a:hover,
+.widget_archive ul li:hover,
+.widget_pages ul li a:hover,
+.widget_meta ul li:hover{
+	padding-left: 36px;
+}
+.widget_categories ul li:hover a, 
+.widget_categories ul li:hover:before, 
+.widget_nav_menu ul li a:hover, 
+.widget_nav_menu ul li a:hover:before,
+.widget_archive ul li:hover a,
+.widget_archive ul li:hover,
+.widget_archive ul li:hover:before,
+.widget_pages ul li a:hover, 
+.widget_pages ul li a:hover:before,
+.widget_meta ul li:hover a,
+.widget_meta ul li:hover:before {
+	color: #fff;
+}
+.widget_categories ul li:hover:before, 
+.widget_nav_menu ul li a:hover:before,
+.widget_archive ul li:hover:before,
+.widget_pages ul li a:hover:before,
+.widget_meta ul li:hover:before {
+	padding: 0 8px;
+	background-color: rgba(0,0,0,0.1);
+}
+.widget_archive ul li:hover{padding-right: 5px;}
+.widget_recent_comments ul li span{color: #999;}
+/* widget Recent Blog Style */
+.recentblog-post ul li{
+	list-style: none;
+	float: left;
+	width: 100%;
+}
+.recentblog-post ul{
+	padding: 0px;
+	margin: 0px;
+}
+.recentblog-post ul li{
+	padding: 10px 0px;
+	border-top: 1px solid #f1f1f1;
+}
+.recentblog-post ul li:last-child{border-bottom: 1px solid #f1f1f1;}
+.recentblog-post figure{
+	float: left;
+	width: 72px;
+}
+.recentblog-post figure ~ .text{padding:15px 0 0 90px; }
+.recentblog-post .text h6{
+	font-size: 14px;
+	text-transform: uppercase;
+	margin: 0px;
+} 
+.recentblog-post .text li:last-child{border: none;}
+.recentblog-post .text li {
+	float: left;
+	width: auto;
+	padding: 0px;
+	border: none;
+}
+/*  Widget Gallery */
+.widget.widget-gallery .gallery-list li {
+	float: left;
+	width: 24.5%;
+	margin: 0 0px 1px 1px;
+	padding: 0px;
+	position: relative;
+}
+.widget.widget-gallery .gallery-list {
+	margin-left: -1px;
+	float: left;
+	width: 100%;
+}
+.widget.widget-gallery .gallery-list li img {
+	width: 100%;
+	float: left;
+}
+/*  Widget Twitter */
+.widget.twitter_widget  article {
+	display: block;
+	margin-bottom: 12px;
+	padding: 14px 0px 0px 25px;
+	border-top: 1px solid #eeeeee;
+	position: relative;
+}
+.widget.twitter_widget  article:before{
+	content: "\f099";
+	position: absolute;
+	left: 0px;
+	top: 12px;
+	font-size: 14px;
+	font-family: "icomoon";
+}
+.twitter_widget article:last-child{
+	margin-bottom: 0px;
+	padding-bottom:0px;
+}
+.widget.twitter_widget article P {
+	font-size: 14px;
+	font-weight: 400;
+	margin-bottom: 3px;
+	color: #333333;
+	line-height: 18px !important;
+}
+.twitter_widget article .text span, .twitter_widget article .text a {
+	font-weight: 400;
+	font-size: 12px;
+}
+.twitter_widget article .text span{color: #cdcdcd;}
+.widget.twitter_widget article .text a{
+	color: #999;
+}
+.twitter_widget article .text i {
+	margin: 6px 6px 0 0;
+	float: left;
+	color: #ff9310;
+}
+/*  Widget Tag Cloud */
+.widget_tag_cloud .tagcloud a {
+	display: inline-block;
+	border: 1px solid #f1f1f1;
+    border-radius: 3px;
+    color: #bbbbbb;
+    font-size: 10px;
+    padding: 6px 8px;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+    font-weight: 500;
+}
+.widget_tag_cloud .tagcloud a:hover{color: #fff;}
+/*  Widget Calender */
+#wp-calendar {
+    float: left;
+    width: 100%;
+}
+.widget_calendar caption {
+    font-size: 16px;
+	color: #fff;
+	text-align: center;
+	font-weight: 600;
+}
+.widget_calendar tfoot {display: none;}
+.widget_calendar thead tr th {
+	font-size: 14px;
+	font-weight: 400;
+	color: #2c3239;
+}
+.widget_calendar table > thead > tr > th, .widget_calendar table > tbody > tr > th, .widget_calendar table > tfoot > tr > th, .widget_calendar table > thead > tr > td, .widget_calendar table > tbody > tr > td, table > tfoot > tr > td{
+	padding: 0 5px;
+	text-align: center;
+	line-height: 2.3;
+}
+.widget_calendar table thead tr th{background:none; border:1px solid #f4f4f4;}
+/*  Widget Rss */
+
+.page-sidebar .widget_rss ul li a {
+    border-bottom: 1px dotted;
+    color: #b8b8b8 !important;
+    display: inline-block;
+    font-size: 12px;
+    margin-bottom: 5px;
+    padding-bottom: 2px;
+    text-transform: uppercase;
+}
+.page-sidebar .widget_rss .rss-date {
+    color: #999;
+    float: left;
+    font-size: 12px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    width: 100%;
+}
+.page-sidebar .widget_rss .rssSummary {
+	font-size: 14px;
+	color: #444;
+}
+
+/*  Widget Text */
+
+.widget.widget_text img {
+    height: auto;
+    width: 100%;
+}
+.textwidget p img {
+    float: left;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.textwidget p {
+	font-size: 14px;
+}
+.wp-smiley {
+    width: auto !important;
+    margin: 5px 5px 5px 0;
+}
+.textwidget p strong {
+    float: left;
+    font-weight: normal;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.page-sidebar .textwidget p {
+	float: left;
+}
+/*  Widget Recent comments */
+.widget.widget_recent_comments span {
+    color: #999 !important;
+    display: inline-block;
+    font-size: 12px;
+    line-height: 14px;
+    margin-bottom: 8px;
+    margin-right: 7px;
+    text-transform: uppercase;
+}
+.widget.widget_recent_comments li{ overflow: hidden; }
+.widget.widget_recent_comments li a {
+    text-align: left;
+    text-transform: capitalize;
+    line-height: 16px;
+    float: left;
+    margin:3px 0 0;
+    width: 188px;
+}
+.widget.widget_recent_comments time {
+    display: block;
+    font-size: 13px;
+}
+/*  Widget Text */
+.widget_text ul li {
+	float: left;
+	clear: left;
+	margin-bottom: 10px;
+}
+.widget_text ul li span {
+	font-size: 14px;
+	text-transform: uppercase;
+	color: #444;
+	font-weight: 400;
+}
+.widget_text ul li i{
+	margin: 0 8px 0 0;
+}
+.widget_text ul li p {margin-bottom: 0px;}
+.widget_text ul li p, .widget.widget_text ul li p a {
+	font-size: 14px;
+	font-weight: 300;
+	line-height: 24px;
+}
+/*  Widget Search */
+.widget_search .cs-search-area {
+    float: left;
+    position: relative;
+    width: 100%;
+}
+.widget_search .cs-search-area input[type="text"] {
+    float: left;
+    font-size: 14px;
+    height: 40px;
+    padding-left: 20px;
+    width: 100%;
+   color: #2c3239;
+   font-weight: 400;
+}
+.widget_search .cs-search-area label {
+	position: absolute;
+	display: inline-block;
+	right: 1px;
+	top: 1px;
+	margin: 0px;
+}
+.widget_search .cs-search-area label:before {
+	content: "\f002";
+	position: absolute;
+	left: 0px;
+	top: 0;
+	font-size: 14px;
+	color: #fff;
+	font-family: 'icomoon';
+	padding: 7px 15px;
+	cursor: pointer;
+	display: block;
+}
+.widget_search form label input[type="submit"] {
+	width: 42px;
+	text-align: center;
+	height: 38px;
+	border: none;
+	text-indent: -999px;
+	border-radius: 0;
+	color: #fff;
+	font-weight: bold;
+	padding: 0px;
+}

@@ -1,0 +1,434 @@
+
+/*============	Media 768Px Start ============ */ 
+@media (min-width: 768px) and (max-width: 990px) {
+	.content-rt.col-md-3, .container, .element-size-75, .px-portfolio-carousel article {width: 100% !important;}
+	.col-md-4, .col-md-3 { width: 49% !important; }
+
+	.main-section .page-content, .main-section .page-content ~ .page-sidebar, .col-md-12 {width: 100%;}
+	.main-section .col-md-3.left-sec { width: 33.33% !important;}
+	.element-size-25, .element-size-33, .element-size-67 {width: 50% !important;}
+	.col-md-2 { width: 33.33%;}
+	.no-clients-border .col-md-2 {width: 16%;}
+	.col-md-5, .col-md-7, .col-md-6 {width: 50%;}
+	.px-services [class*="col-md"]{width: 49%!important;}
+	.page-sidebar .widget{width: 46%; margin: 0 15px 30px 15px;}
+
+	/*====== Navigation Style =======*/
+	.main-navbar {position: inherit!important;}
+	.navigation ul li.dropdown a {width: 100%; float: left; text-align: left;}
+	.navbar {position: relative; z-index: 999;}
+	.navbar-header .navbar-toggle { float: left; background-color: #222;}
+	.navbar .navbar-collapse.in {overflow-y: visible;}
+	.navigation ul li {width: 99.9%; margin: 0 0 5px;}
+	.navigation ul li a {/*line-height: 30px !important;*/ min-height: 0 !important;}
+	.navigation ul li.dropdown a {background-color: #eff2f5; color: #999 !important;}
+	.navbar-collapse .sub-dropdown {width: 100%; position: relative; transform: translateX(0px); visibility: visible; opacity: 1; float: left; background:none !important;}
+	.main-navbar .navigation ul ul ul {left: 0;}
+	.cs_searchbtn {line-height: 60px !important;}
+	.navbar-toggle .icon-bar {background-color: #fff;}
+	.navigation ul > li > a:before {background: none;}
+	.logo > a, .navigation .cs_searchbtn {line-height: inherit!important;}
+	.navigation .cs_searchbtn {min-height: inherit!important;}
+	.search-sec {position: relative; z-index: 999;}
+	header .navigation ul > li > a:before {display: none;}
+	.navbar.navigation {display: none;}
+	.navbar.navigation.mobile-nav {display: inline-block !important;float: left;}
+	.navbar-collapse {position: absolute;left: 0px;top: 100%;width: 400px;background-color: #fff; z-index: 999;}
+	header .navigation{ clear: both; float: none; }
+	.navigation .sub-dropdown ul,
+	.navigation .sub-dropdown{ 
+		position: static;
+		width: 100%;
+		-moz-transform: translateX(0);
+		-webkit-transform: translateX(0px);
+		-o-transform: translateX(0px);
+		-ms-transform: translateX(0px);
+		transform: translateX(0px);
+		visibility: visible;
+		opacity: 1;
+		clear: both;
+		padding: 0;
+	}
+	#main-header .navigation .cs-click-menu {
+	    display: block;
+	}
+	.sub-dropdown .responsive-btn{ float: right; padding: 0; color:#fff; cursor: pointer;}
+	.sub-dropdown .responsive-btn i{color: #333;}
+	.navigation > ul > li > a{ float: none; display: block; }
+	.responsive-btn{ float: right; /*line-height:30px !important;*/ padding: 18px 12px; color:#fff; cursor: pointer;}
+	.navigation > ul > li:hover>a{ background: #efaa15 ;}
+	.sub-dropdown > li,
+	.sub-dropdown li a {border: none !important; margin:0 0 1px !important;}
+	.search-sec{top: 13px;}
+	.navigation .cs-close-btn{display: none;}
+	.navigation .cs-close-btn i{color:  #fff;}
+	.navigation > ul:after {
+	    clear: both;
+	    content: "";
+	    display: block;
+	}
+	header .navigation {
+		background: none;
+	}
+   	header .navigation .cs-click-menu,
+	header .navigation>ul{
+		background-color: #373028;
+	}
+	header .navigation>ul{ width: 100%; }
+	header .px-nav-area{position: relative;}
+	header .px-nav-area .btn-quote{
+		position: absolute;
+		right: 0px; 
+		top: 0px;
+	}
+	header .sub-dropdown ul li,
+	header .sub-dropdown>li{
+	background: #f1f1f1 url(assets/images/arrow-nav.png) no-repeat 8px 20px;}
+	header .responsive-btn{display: block;}
+	
+	/*============ Header Style ============ */
+	.main-navbar .search-sec form label:before {top: 8px;}
+	.main-navbar .navbar-toggle {margin: 0;}
+	.px-logo-area .px-head-info ul li{font-size: 14px;}
+	
+	/*============ Home Page Style ============ */
+	.main-section .px-portfolio-masonary article {float:none; display: inline-block; vertical-align:top;}
+	.px-partner.px-modren ul li {width:30.777% !important;}
+	.main-section .px-partner ul li {margin: 0 -4px 10px 0;}
+	.main-section .px-partner.px-modren ul li {margin: 0 0 7px 7px;}
+	
+	/*====== under-construction Style =======*/
+	.main-section .under-wrapp .user-signup > form {width: 50%;}
+	.main-section .wrapp-inner{width: 100%;}
+	.main-section .under-wrapp{ padding: 0 20px;}
+	.main-section .user-signup form input[type="button"]{width: 25%;}
+	.main-section .user-signup form label{width: 75%;}
+	
+	/*====== Common Element Style =======*/
+	.main-section .cs-tabs .tab-content {width: 79%;}
+	.main-section .time_line .owl-nav div:before {height: 30px; width: 30px; top: 15px;}
+	.main-section .time_line .owl-nav div i {padding: 15px 0 0 10px; float: left;}
+	.main-section .time_line .owl-controls:before {width: 78%; top: 18px;}
+	.main-section .section-sidebar {width: 100%;}
+	.time_line.col-md-12 {margin-left: 15px;}
+	.main-section .under-wrapp .main-digit-wrapp { margin:0 15px 25px 0;}
+	/*====== portfolio  Style =======*/
+	.main-section .px-main-filter ul li:after{left: -18px;}
+	/*====== Home Page Style =======*/
+	.wrapper #footer-sec {padding: 50px 20px 0;}
+	.sub-dropdown{ position: static; }
+	.sub-dropdown a{ text-align: left; }
+	.px-portfolio-masonary article{margin:0 -4px 14px 0 !important;}
+	/*====== portfolio Style =======*/
+	.main-section .px-portfolio-carousel .owl-controls{top: -40px;}
+	.px-head-info ul li{ padding: 0 6px; }
+	.main-section .px-team-medium figure{width: 100%; margin-bottom: 15px;}
+	.main-section .px-team-medium .px-text{overflow: inherit;}
+	.main-section .px-gallery-list li.px-haf-width{width: 46%;}
+	.main-section .px-project-details .px-fancy-heading{width: 100%;}
+	.main-section .px-portfolio article{float: none;}
+	/*====== About us Style =======*/
+	.main-section .px-timeline figure::before{display: none;}
+	.main-section .contact-form form .px-textarea, .contact-form.px-classic-form .px-textarea{position: inherit; padding: 0px; width: 100%;}
+   .main-section .contact-form form label input[type="text"], .main-section .contact-form form label input[type="email"], .main-section .contact-form form label textarea, 
+   .main-section .contact-form.px-classic-form label input[type="text"], .main-section .contact-form.px-classic-form label input[type="email"], .main-section .contact-form.px-classic-form label textarea{width: 100%;}
+   .main-section .contact-form form .form-submit, .contact-form.px-classic-form .form-submit{position: inherit; float: left;}
+   .main-section .px-thumb-list ul li{width: 30%;}
+	#footer-sec .px-widget-block [class*="col-md"]{ margin: 0 -4px 35px 0; }
+	.main-section .px-plain .skillbar{width: 93%;}
+
+
+}
+	
+
+
+/*============ Media 420Px Start ============ */
+@media (max-width: 767px) {
+	
+	.element-size-50,
+	.element-size-33,
+	.element-size-75,
+	.element-size-67,
+	.page-content,
+	.page-sidebar, 
+	.page-sidebar ~ .page-content,
+	.element-size-100 .col-md-12,
+	.element-size-75 .col-md-12,
+	.element-size-67 .col-md-12,
+	.element-size-50 .col-md-12,
+	.element-size-25 .col-md-12,
+	.element-size-33 .col-md-12,
+	.col-md-12, .page-content, footer [class*="col-md-"], .col-md-6, .col-md-9, .col-md-4, .col-md-3, .col-md-2, .element-size-25, .container { width: 100% !important; }
+	/*====== Top Bar Style =======*/
+	.px-top-bar, .px-logo-area {text-align: center;}
+	.px-top-bar .right-side, .px-top-bar .left-side, .px-logo-area .left-side, .px-logo-area .right-side {display: inline-block; float: none; display: inline-block;}
+	#main-header .px-top-bar #lang_sel_list {border:none; margin: 0;}
+	#main-header .logo {margin: 0 0 15px;}
+	#main-header .px-head-info ul li {border:none; margin: 0 0 10px 0; text-align:left; display: inline-block; float:none;}
+	.px-top-bar .left-side{ padding:10px; }
+	
+	/*====== Navigation Style =======*/
+	.main-navbar {position: inherit!important;}
+	.navigation ul li.dropdown a {width: 100%; float: left; text-align: left;}
+	.navbar {position: relative; z-index: 999;}
+	.navbar-header .navbar-toggle { float: left; background-color: #222;}
+	.navbar .navbar-collapse.in {overflow-y: visible;}
+	.navigation ul li {width: 99.9%; margin: 0 0 5px;}
+	.navigation ul li a {/*line-height: 30px !important;*/ min-height: 0 !important;}
+	.navigation ul li.dropdown a {background-color: #eff2f5; color: #999 !important;}
+	.navbar-collapse .sub-dropdown {width: 100%; position: relative; transform: translateX(0px); visibility: visible; opacity: 1; float: left; background:none !important;}
+	.main-navbar .navigation ul ul ul {left: 0;}
+	.cs_searchbtn {line-height: 60px !important;}
+	.navbar-toggle .icon-bar {background-color: #fff;}
+	.navigation ul > li > a:before {background: none;}
+	.logo > a, .navigation .cs_searchbtn {line-height: inherit!important;}
+	.navigation .cs_searchbtn {min-height: inherit!important;}
+	.search-sec {position: relative; z-index: 999;}
+	header .navigation ul > li > a:before {display: none;}
+	.navbar.navigation {display: none;}
+	.navbar.navigation.mobile-nav {display: inline-block !important;float: left;}
+	.navbar-collapse {position: absolute;left: 0px;top: 100%;width: 400px;background-color: #fff; z-index: 999;}
+	header .navigation{ clear: both; float: none; }
+	.navigation .sub-dropdown ul,
+	.navigation .sub-dropdown{ 
+		position: static;
+		width: 100%;
+		-moz-transform: translateX(0);
+		-webkit-transform: translateX(0px);
+		-o-transform: translateX(0px);
+		-ms-transform: translateX(0px);
+		transform: translateX(0px);
+		visibility: visible;
+		opacity: 1;
+		clear: both;
+		padding: 0;
+	}
+	#main-header .navigation .cs-click-menu {
+	    display: block;
+	}
+	.sub-dropdown .responsive-btn{ float: right; padding: 0; color:#fff; cursor: pointer;}
+	.sub-dropdown .responsive-btn i{color: #333;}
+	.navigation > ul > li > a{ float: none; display: block; }
+	.responsive-btn{ float: right; /*line-height:30px !important;*/ padding: 18px 12px; color:#fff; cursor: pointer;}
+	.navigation > ul > li:hover>a{ background: #efaa15 ;}
+	.sub-dropdown > li,
+	.sub-dropdown li a {border: none !important; margin:0 0 1px !important;}
+	.search-sec{top: 13px;}
+	.navigation .cs-close-btn{display: none;}
+	.navigation .cs-close-btn i{color:  #fff;}
+	.navigation > ul:after {
+	    clear: both;
+	    content: "";
+	    display: block;
+	}
+	header .navigation {
+		background: none;
+	}
+   	header .navigation .cs-click-menu,
+	header .navigation>ul{
+		background-color: #373028;
+	}
+	header .navigation>ul{ width: 100%; }
+	header .px-nav-area{position: relative;}
+	header .px-nav-area .btn-quote{
+		position: absolute;
+		right: 0px; 
+		top: 0px;
+	}
+	header .sub-dropdown ul li,
+	header .sub-dropdown>li{
+	background: #f1f1f1 url(assets/images/arrow-nav.png) no-repeat 8px 20px;}
+	header .responsive-btn{display: block;}
+	
+	/*====== Home Page Style =======*/
+	.main-section .px-partner.px-modren ul {margin:-3px;}
+	.main-section .px-partner.px-modren ul li {width:31.222% !important;}
+	.main-section .px-partner ul li {width: 49% !important; margin-bottom: 10px;}
+	.main-section .px-logo-area{padding: 0 0 10px;}
+	.main-section .breadcrumb-sec {min-height: 250px!important;}
+	.main-section .px-testimonial-slider .flex-control-nav{bottom: -38px;}
+
+	/*====== Page Not Found Style =======*/
+	.main-section .page-not-found .cs-section-title h2:before, .main-section .page-not-found .cs-section-title h2:after {left: 0;}
+	.main-section .cs-content404 p, .main-section .page-not-found .cs-search-area > form, .main-section .page-no-search .cs-search-area > form {width: 100%;}
+	.main-section .px-content404 p{line-height: 32px!important;}
+
+	/*====== under-construction Style =======*/
+	.main-section .under-wrapp .user-signup > form, .main-section .wrapp-inner, .main-section .time_circles {width: 100%;}
+	.main-section .under-wrapp, .main-section .under-wrapp .user-signup > form{padding: 0 15px;}
+	.main-section .user-signup form label{width: 77%;}
+	.main-section .user-signup form input[type="button"]{width: 22%;}
+
+	/*====== Typography Style =======*/
+	.main-section .cs-qoute:before {left: -5px;}
+
+	/*====== Common Element Style =======*/
+	.main-section .cs-tabs .tab-content {width: 79%;}
+	/*====== About us Style =======*/
+	.main-section .px-timeline figure::before{display: none;}
+	.main-section .px-plain .skillbar{width: 96%;}
+	/*======  Servics Style =======*/
+	.main-section .px-quote-form{width: 100%;}
+	.main-section .px-quote-form .field-col{padding: 0px;}
+	.main-section .px-quote-form input[type="submit"]{width: 40%;}
+	.main-section .call-actions .cell.icon, .main-section .call-actions .cell.text-area, .main-section .px-call-to-btn{width: 100%; text-align: center;}
+
+	/*====== Footer Style =======*/
+	.wrapper #footer-sec {padding: 50px 20px 0;}
+	.px-team-medium figure{
+		float: none;
+		overflow: hidden;
+		display: block;
+	}
+	.px-project-details .px-share .btn{
+		min-width: 125px;
+	}
+	.cs-click-menu {
+	    display: block;
+	}
+	.px-section-title .px-portfolio-btn{
+		position: static !important;
+		display: block;
+	}
+	.main-section .px-main-filter span{
+		float: none;
+		display: block;
+		margin-bottom: 5px;
+	}
+	.main-section .px-main-filter ul li{
+		width: 46%;
+		box-sizing:border-box;
+		-moz-box-sizing:border-box;
+		-webkit-box-sizing:border-box;
+		margin: 0 10px 0 0;
+	}
+	.px-main-filter ul li::after{
+		display: none;
+	}
+	.px-fancy-heading .px-content-inner::before,
+	.px-fancy-heading .px-content-inner::after{ display: none; }
+	/*====== portfolio  Style =======*/
+	.main-section .px-main-filter ul li:after{left: -18px;}
+	.main-section .px-project-details .px-fancy-heading{width: 100%;}
+	.main-section .px-ads figure img{margin-bottom: 15px;}
+	.main-section .sidebar-color:before{display: none;}
+	.main-section .px-gallery-list li.px-haf-width{width: 46%;}
+	.main-section .px-team-medium figure, .main-section .px-portfolio-medium .px-media{width: 100%; margin-bottom: 15px;}
+	/*====== Blog Style =======*/
+	.main-section .page-sidebar{padding: 0 15px;}
+	.main-section .px-blog h3{font-size: 20px;width: 83%;}
+	.main-section .px-blog-editor .px-title h1{font-size: 28px;}
+	.main-section .px-classic-form p input[type="text"], .main-section .px-classic-form p textarea, .main-section .px-detailfull{width: 100%;}
+	.main-section .px-detailfull{padding: 0 15px;}
+	/*====== Tame Style =======*/
+	.main-section .px-team-medium .px-text{overflow: inherit;}
+	.main-section .px-team-medium figure, .main-section .px-portfolio-medium .px-media{width: 100%; margin-bottom: 15px;}
+	.main-section .contact-form form .px-textarea, .contact-form.px-classic-form .px-textarea{position: inherit; padding: 0px; width: 100%;}
+   .main-section .contact-form form label input[type="text"], .main-section .contact-form form label input[type="email"], .main-section .contact-form form label textarea, 
+   .main-section .contact-form.px-classic-form label input[type="text"], .main-section .contact-form.px-classic-form label input[type="email"], .main-section .contact-form.px-classic-form label textarea{width: 100%;}
+   .main-section .contact-form form .form-submit, .contact-form.px-classic-form .form-submit{position: inherit; float: left;}
+	#footer-sec .px-widget-block [class*="col-md"]{ margin: 0 -4px 35px 0;}
+}
+@media (max-width: 520px) {
+/*====== About us Style =======*/
+	.main-section .px-plain .skillbar{width: 94.7%;}
+	.main-section .time_circles > div > span{top: -23px;}
+	.main-section .time_circles > div > h4{top: 22px;}
+	.main-section .px-social-share .px-tags, .main-section .px-social-share .px-social-comment{width: 100%;}
+	.main-section .px-social-share .px-social-comment{float:left;}
+	.main-section .px-social-share .px-social-comment ul{display: block;}
+	.main-section .px-social-comment ul li.px-share-post .social-media ul{display: inline-block;}
+	 .main-section .px-thumb-list ul li{width: 30%;}
+
+}
+/*============ Media 300Px Start ============ */
+@media (max-width: 480px) {
+
+	.page-content { padding: 0; }
+	.element-size-50,
+	.element-size-25,
+	.element-size-75,
+	.element-size-67,
+	.element-size-33,
+	.page-content,
+	.page-sidebar, 
+	.element-size-100 .col-md-12,
+	.element-size-75 .col-md-12,
+	.element-size-67 .col-md-12,
+	.element-size-50 .col-md-12,
+	.element-size-25 .col-md-12,
+	.element-size-33 .col-md-12, 
+	.col-md-3, .col-md-4, .col-md-12, .main-section .call-actions .cell{ width: 100% !important; }
+
+	.top-nav ul li:first-child{ padding:0 8px 0 0; }
+	.top-nav ul li{ float: none; display: inline-block; vertical-align: middle; padding:0 8px 0 0; }
+
+	/*====== Testimonials Style =======*/
+	.flex-viewport .question-mark {padding: 30px 20px 30px 48px;}
+	.flex-viewport .question-mark:before {left: 8px;}
+
+	/*====== under-construction Style =======*/
+	.under-wrapp .cons-text-wrapp h1 {font: 40px "Vidaloka",sans-serif !important;}
+
+	/*====== Common Element Style =======*/
+	.main-section .cs-tabs .nav-tabs li a {padding: 10px 6px;}
+	.main-section .cs-tabs .tab-content, .main-section .cs-vertical-tabs .nav-tabs {width: 100%;}
+	.main-section .element-size-67 .cs-vertical-tabs .nav-tabs, .main-section .element-size-67 .cs-tabs .tab-content, .main-section .gallery-columns-2 .gallery-item {width: 100%;}
+	.main-section .time_line .owl-nav div {margin: 0 0 0 8px;}
+	.main-section .time_line .owl-controls:before {width: 60%; top: 18px;}
+	.main-section .gallery-columns-4 .gallery-item {width: 100%;}
+	.main-section .btn-position-top .text {width: 63%;}
+	.main-section .cs-tabs .nav-tabs li {width: 100%;}
+	.main-section .table.tablev2 tbody tr td {font-size: 11px; padding: 12px 5px; float: left;}
+	.main-section .table.tablev2 th {padding: 8px 5.5px; float: left;}
+	.cs-table .cs-tablerow .pageinfo h1 {overflow: hidden;}
+	.main-section .under-wrapp .main-digit-wrapp {width: 129px;}
+	.main-section .px-services .owl-controls{top:-50px;}
+	.main-section .px-gallery-heading strong{font-size: 12px;}
+
+	/*====== Home Page Style =======*/
+	.main-section .px-partner.px-modren ul li {width:47.2% !important;}
+	.main-section .px-partner ul li{width: 49% !important;}
+	.main-section .px-blog-medium-small .px-media, .main-section .px-blog-medium-small .px-media figure{width: 100%;}
+	.main-section .px-blog-medium-small .px-media{margin-bottom: 15px;}
+	.main-section .px-blog-medium-small .px-bloginfo-sec{overflow: inherit;}
+	/*====== About us Style =======*/
+	.main-section .px-plain .skillbar{width: 91%;}
+	.main-section .px-partner{padding: 0px;}
+	/*====== under-construction Style =======*/
+	#main-header .breadcrumb-sec h1{font-size: 32px;}
+   .main-section .time_circles > div > span{top: -15px;}
+   .main-section .time_circles > div > h4{top: 18px;}
+   .main-section .user-signup form label{width: 72%;}
+   .main-section .user-signup form input[type="button"]{width: 28%;}
+   .main-section .search-results .px-section-title h3{font-size: 18px;}
+   .main-section .search-results ul li strong{font-size: 14px;}
+   .main-section .px-pricing-table table td .px-text h6{font-size: 10px;}
+   /*====== portfolio  Style =======*/
+   .main-section .px-project-details .px-share .btn{min-width: 130px;}
+   .main-section .px-portfolio-medium figure img{width: 306px;}
+    /*====== Blog Style =======*/
+   .main-section .px-blog-large article .px-blog-inner{padding: 12px 0 30px 0px; overflow: inherit; float: left;}
+   .main-section .px-blog-large-box article .px-blog-inner{ padding: 12px 10px 30px 10px;}
+   .main-section .px-blog h3{font-size: 16px;width: 71%;}
+   .main-section .px-pagination{padding: 0px !important;}
+   .main-section .px-about-author .px-text,  .main-section #px-comments .thumblist .px-text-box{overflow: inherit; float: left;}
+   .main-section .px-post-pagination article{width: 100%; border:none;}
+   .main-section #px-comments .px-top-sec, .main-section #px-comments .thumblist .px-bottom{padding: 15px 15px 0 15px;}
+   .main-section #px-comments li.px-comments-inner .children{padding-right: 0px;}
+   .main-section #px-comments li.px-comments-inner .children .thumblist li, .main-section #px-comments li.px-comments-inner .children > .children .thumblist li{padding-left: 0px;}
+   .main-section .px-thumb-list ul li{width: 29%;}
+
+	
+}
+
+/*============	Media 940Px Start ============ */
+@media screen and (min-width: 991px) and (max-width: 1054px) {
+
+	.navigation .sub-dropdown {transform: translateX(5px); width: 180px;}
+
+	/*====== Common Element Style =======*/
+	.main-section .cs-tabs .tab-content {width: 79%;}
+	/*.navigation li > a {padding: 0 10px !important;}.navigation {float: left;}.logo{float: left;}*/
+	.main-section .time_line .owl-controls:before {width: 83%;}
+}

@@ -1,0 +1,26 @@
+﻿/* ThemeColor Setup */
+
+.pxcolor,.px-hovercolor:hover, .sub-dropdown>li:hover>a, .sub-dropdown>li ul li:hover>a, .twitter_widget p a, #footer-sec .px-widget-contact ul li, #footer-sec .px-widget-contact ul a,  
+#copyright p a, #footer-sec .widget_pages ul a:hover, .px-top-bar #lang_sel_list a.lang_sel_sel:after, .px-project-details .px-share .btn,
+.px-pagination ul li a:hover, .px-pagination ul li a.active, .px-social-comment ul li:hover a, .px-blog article:hover h3 a, .px-post-options li a:hover, .px-tags ul li a:hover, .px-post-pagination article:hover h6 a, .search-results ul li a,
+.widget.twitter_widget  article:before, /* Widget */.widget_recent_comments ul li:hover a, .widget_recent_entries ul li:hover a,
+.px-modren .px-text p, .px-main-filter ul li:hover a, .px-content404 h1 span, .px-plain .panel span, .cs-call-to-btn .medium-btn,.px-main-filter ul a.active,
+.px-box .panel-heading a, .px-price-table.pr-classic .pr-month, .px-call-to-btn .medium-btn, .px-services.px-classic i, .px-gallery-heading h1 span, .px-blog-medium-small h6 a:hover, .recentblog-post .text h6 a:hover, .px-head-info ul li:last-child:hover a,
+.px-contact-info ul li p:hover a,.px-services.px-classic span:hover a, .px-box .panel-heading a.collapsed:hover, .px-portfolio-medium article:hover h3 a{
+	color: #efaa15 !important;
+}
+.px-bgcolor,.pxbg-color,.pxbg-hovercolor:hover, .px-top-bar, .navigation>ul>li:hover>a, .px-nav-area .btn-quote, .px-gallery #carousel .flex-direction-nav a:hover, 
+#footer-sec .px-widget-contact .btn-map, #footer-sec .widget-form form, .px-separator:after, .px-project-details .px-detail-list li:before, .px-project-block .dash,
+.px-pagination ul li a:after, .px-date, blockquote:before, .px-blog-editor .px-social-share:before, .px-tags ul li i, .px-post-pagination article i,
+/* Widget */.widget_categories ul li:hover, .widget_nav_menu ul li a:hover, .widget_archive ul li:hover, .widget_pages ul li a:hover, .widget_meta ul li:hover, 
+.widget_tag_cloud .tagcloud a:hover, .gallery-item figcaption a:hover, .px-portfolio-btn,
+.px-btn, .px-teamgrid .px-text span:before, .px-teambtn:hover, .px-spreater span, .px-counter .px-text p:before, .px-fancy-heading p:before,
+.px-timeline figure figcaption, .px-plain .skillbar-bar, .form-group p input[type="submit"], .sigun-up-btn, .breadcrumb-sec .px-text span:after, .px-project-details .px-share .btn:hover, .px-testimonial-slider .flex-direction-nav a:hover,
+.px-portfolio-carousel .owl-prev:hover , .px-portfolio-carousel .owl-next:hover , .px-modren .owl-prev:hover , .px-modren .owl-next:hover {
+	background-color: #efaa15 !important;
+}
+
+.pxborder-color,.pxborder-hovercolor:hover, .px-project-details .px-share .btn {
+	border-color: #efaa15 !important;
+}
+

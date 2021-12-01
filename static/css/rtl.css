@@ -1,0 +1,171 @@
+body{ direction: rtl;}
+
+.px-project-details .px-detail-list li time, .px-project-details .px-detail-list li .desc,
+.comment-reply,
+.px-textarea,
+.px-nav-area .btn-quote,
+.right-side{ float: left;}
+
+.px-plain .panel span,
+.skills-sec span,
+.px-project-details .px-detail-list li .title,
+.px-post-options li,
+.px-about-author figure,
+#px-comments ul li .thumblist time,
+#px-comments ul li .thumblist h6,
+.px-post-options li i,
+.widget_categories ul li a, .widget_archive ul li a, .widget_meta ul li a,
+.recentblog-post .text li,
+.recentblog-post figure,
+.px-date,
+.contact-form form label,
+.contact-form form label input[type="text"], 
+.contact-form form label input[type="email"], 
+.contact-form form label textarea, 
+.contact-form.px-classic-form label input[type="text"], 
+.contact-form.px-classic-form label input[type="email"], 
+.contact-form.px-classic-form label textarea,
+.px-section-title h3, .px-section-title h4,
+.px-relevant-list figure,
+.px-project-block .px-process-list .num,
+.px-project-block .px-social-media,
+.px-team-medium figure,
+.px-teambtn,
+.px-team-medium .px-text .px-social-media,
+#footer-sec .widget_pages ul li,
+.px-top-bar .social-media li,
+.top-nav ul li,
+.navigation,
+.navigation > ul > li,
+.left-side{ float: right !important;}
+
+.top-nav ul li:first-child{ padding: 0 0 0 10px; }
+.sub-dropdown > li{ 
+	padding: 8px 20px 6px 10px;
+	background-position: 96% 55%;
+}
+#footer-sec .widget_pages ul li{
+	background-position: 100% 3px;
+	padding: 0 14px 0 0;
+}
+.px-project-block .spec-list li{
+	background-position: 100% 3px;
+	padding: 0 18px 0 0;
+}
+.px-contact-info ul li p,
+.px-contact-info ul li span{ padding: 0 40px 0 0; }
+.search-results ul li:last-child,
+.search-results ul li,
+.px-list-style ul li,
+.px-project-block .px-process-list .px-text{ padding: 0 20px 0 0; }
+.cs-search-area .form-control{ padding: 0 15px; }
+.px-box .panel-heading a{ padding: 12px 25px 12px 0; }
+.contact-form form .px-textarea, 
+.contact-form.px-classic-form .px-textarea{
+	padding: 0 18px 0 0;
+}
+.px-blog-large article .px-blog-inner, .px-blog-large-box article .px-blog-inner{
+	padding: 21px 30px 0 0;
+}
+.recentblog-post figure ~ .text{ padding: 15px 90px 0 0 !important; }
+.widget_categories ul li, .widget_nav_menu ul li a, .widget_archive ul li, .widget_pages ul li a, .widget_meta ul li{
+	padding: 0 20px 0 0 !important;
+}
+.widget.twitter_widget article{
+	padding: 14px 25px 0 0 ;
+}
+.px-plain span ~ .panel-heading{ padding: 0 30px 0 0; }
+/*.px-blog-large article .px-blog-inner, .px-blog-large-box article .px-blog-inner{
+	padding: 21px 0 0 30px;
+}*/
+
+.px-about-author figure{ margin: 0 0 0 30px; }
+#px-comments ul li .thumblist h6{ margin: 0 0 0 13px; }
+.px-about-author .px-text .px-post-admin i{ margin: 0 0 0 8px; }
+.px-post-options li i{ margin: 3px 0 0 7px; }
+.px-project-block .dash{ margin:-4px 0 0 10px; }
+.px-team-medium figure{ margin: 0 0 0 20px; }
+.px-teambtn{ margin: 0 14px 0 0;}
+#copyright .social-media li i{ margin:0 0 0 6px; }
+.px-top-bar .social-media li{ margin:0 0 0 20px; }
+.site-maps-links ul li a{ margin:0 20px 0 0;}
+.px-social-comment ul li.px-likes a i{ margin: 0 0 0 18px; }
+.pr-classic .px-price span{ margin: -12px -20px 0 0 ;}
+
+.px-section-title .px-portfolio-btn,
+.contact-form form .form-submit, .contact-form.px-classic-form .form-submit,
+.contact-form form .px-textarea, 
+.contact-form.px-classic-form .px-textarea{
+	left: 0;
+	right: auto;
+}
+
+.px-about-author::before, #px-comments .thumblist .px-bottom::before{
+	left: auto;
+	right: 47px;
+}
+
+blockquote::before{
+	right: 0px;
+	left: auto;
+}
+.px-detailfull blockquote {
+	margin: 0 0 20px;
+    padding: 20px 30px;
+}
+
+.px-author::before,
+.px-project-details .px-detail-list li::before,
+.px-blog-editor .px-title h1::before,
+.widget.twitter_widget article::before,
+.widget_categories ul li::before, .widget_nav_menu ul li a::before, .widget_archive ul li::before, .widget_pages ul li a::before, .widget_meta ul li::before,
+.px-contact-info ul li i,
+.suggestions ul li::before, .site-maps-links ul li::before,
+.px-list-style ul li::before,
+.px-textborder::before,
+.top-nav ul li::after,
+.sub-dropdown{ left: auto; right: 0; }
+
+.px-quote-form .time::after,
+.px-quote-form .date::after,
+.px-quote-form .select-holder::after{ right: auto; left: 1px; border-right: 1px solid #e8e8e8; border-left: none; }
+
+.widget_categories ul li::before, .widget_nav_menu ul li a::before, .widget_archive ul li::before, .widget_pages ul li a::before, .widget_meta ul li::before{ content: '\f0d9'}
+
+.sidebar-color::before{
+	left: -5px;
+	right: auto;
+}
+.navigation > ul > li:first-child{
+	border-radius: 0 2px 2px 0;
+}
+.navigation > ul > li:last-child{
+	border-radius: 2px 0 0 2px;
+}
+.navigation > ul > li{
+	border-left:none;
+	border-right:1px solid rgba(0, 0, 0, 0.1);
+}
+.px-plain .skillbar-bar:before{
+	border-left: 30px solid transparent;
+	left: -28px;
+	right: auto;
+}
+.skills-sec:after{
+	left: -26px !important;
+	right: auto !important;
+}
+.skills-sec:before{
+	left: -13px !important;
+	right: auto !important;
+	transform: rotate(-53deg);
+}
+
+.px-box .panel-heading a::before,
+.px-box .panel-heading a.collapsed::before{ left: auto; right: 10px; }
+
+.px-project-block .px-process-list li::after{ right: 25px; }
+#copyright .social-media li span{ left: 45px; }
+canvas{ width: 625px !important; }
+
+.top-left{ text-align: right; }
